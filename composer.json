@@ -1,0 +1,26 @@
+{
+    "name": "innova/angular-ui",
+    "type": "library",
+    "description": "Angular-UI Symfony 2 bundle",
+    "keywords": ["angular-ui","symfony2"],
+    "homepage": "http://github.com/InnovaLangues/AngularUIBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/framework-bundle":  "2.*",
+        "symfony/symfony":           "2.*",
+        "innova/angularjs":              "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Innova\\AngularUIBundle": "." }
+    },
+    "target-dir": "Innova/AngularUIBundle"
+}
+
