@@ -10,7 +10,7 @@ Install with composer :
 
 ## Authors
 
-* Donovan Tengblad (purpplefish32)
+* Donovan Tengblad (purplefish32)
 * Axel Penin (Elorfin)
 * Arnaud Bay (arnaudbey)
 * Eric Vincent (ericvincenterv)
