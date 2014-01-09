@@ -2,6 +2,8 @@
 
 Symfony 2 bundle which provides Angular UI Twitter Bootstrap.
 
+![SensioLabs Insight][1]
+
 ## Installation
 
 Install with composer :
@@ -14,3 +16,5 @@ Install with composer :
 * Axel Penin (Elorfin)
 * Arnaud Bay (arnaudbey)
 * Eric Vincent (ericvincenterv)
+
+[1]: https://insight.sensiolabs.com/projects/25fcac95-120c-4992-9f2d-4f4f193705e7/small.png
