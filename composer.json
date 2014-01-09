@@ -28,7 +28,7 @@
         "php" : ">=5.3.0",
         "symfony/symfony" : "2.*",
         "claroline/kernel-bundle" : "~1.0",
-        "innova/angularjs" : "dev-master"
+        "innova/angular-js-bundle" : "dev-master"
     },
     "autoload" : {
         "psr-0" : {
