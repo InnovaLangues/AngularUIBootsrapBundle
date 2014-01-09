@@ -1,25 +1,34 @@
 {
-    "name": "innova/angular-ui",
-    "type": "library",
-    "description": "Angular-UI Symfony 2 bundle",
-    "keywords": ["angular-ui","symfony2"],
-    "homepage": "http://github.com/InnovaLangues/AngularUIBundle",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Arnaud Bey",
-            "email": "arnaud.bey@u-grenoble3.fr"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.0",
-        "symfony/framework-bundle":  "2.*",
-        "symfony/symfony":           "2.*",
-        "innova/angularjs":              "dev-master"
-    },
-    "autoload": {
-        "psr-0": { "Innova\\AngularUIBundle": "." }
-    },
-    "target-dir": "Innova/AngularUIBundle"
+	"name" : "innova/angular-ui",
+	"description" : "Angular-UI Symfony 2 bundle",
+	"type" : "library",
+	"authors" : [{
+			"name" : "Arnaud Bey",
+			"email" : "arnaud.bey@u-grenoble3.fr"
+		}, {
+			"name" : "Axel Penin",
+			"email" : "axel.penin@u-grenoble3.fr"
+		}
+	],
+	"keywords" : [
+		"angular-ui",
+		"symfony2"
+	],
+	"homepage" : "http://github.com/InnovaLangues/AngularUIBundle",
+	"license" : [
+		"MIT"
+	],
+	"require" : {
+		"symfony/symfony" : "2.*",
+		"php" : ">=5.3.0",
+		"symfony/framework-bundle" : "2.*",
+		"claroline/kernel-bundle" : "~1.0",
+		"innova/angularjs" : "dev-master"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Innova\\AngularUIBundle" : "."
+		}
+	},
+	"target-dir" : "Innova/AngularUIBundle"
 }
-
