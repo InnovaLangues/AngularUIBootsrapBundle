@@ -8,7 +8,7 @@ Symfony 2 bundle which provides Angular UI Twitter Bootstrap.
 
 Install with composer :
 	
-	$ composer require "innova/angular-ui-bootstrap-bundle" "1.*"
+	$ composer require "innova/angular-ui-bootstrap-bundle" "5.*"
 
 ## Authors
 
